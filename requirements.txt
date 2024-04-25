@@ -1,3 +1,4 @@
 peewee==3.17.1
 types-peewee==3.17.3.20240424
 Flask==3.0.3
+mypy
